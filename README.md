@@ -19,7 +19,7 @@ Perform geographic analysis of restaurants
 Python
 Power BI
 Pandas
-Jupyter Notebook / Google Colab
+Jupyter Notebook
 
 * Project Structure
 Restaurant_Data_Analysis_Project/
